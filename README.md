@@ -16,4 +16,4 @@ Visual Planning Tool where users can drag and drop destinations, activities, and
 
 Easy Booking with seamless transitions between finding destinations, viewing activities, and booking hotels. 
 
-Experience Focus: Personalized suggestions and a sleek, visual interface that encourages exploration. 
+Experience Focus: Personalized suggestions and a sleek, visual interface that encourages exploration. PERSONALIZED for USER
