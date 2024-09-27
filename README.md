@@ -10,6 +10,8 @@ Key Features:
 
 Personalized Dashboards showing recommendations for future trips based on past itineraries. 
 
+uses phone algorythm for possible reccomendtions
+
 Visual Planning Tool where users can drag and drop destinations, activities, and hotel options into a schedule. 
 
 Easy Booking with seamless transitions between finding destinations, viewing activities, and booking hotels. 
